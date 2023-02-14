@@ -1,0 +1,7 @@
+baseURL = 'http://grayfarer.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+[params]
+author = "Mr Hugo"
+user = "hello"
+hostname = "grayfarer.github.io"
