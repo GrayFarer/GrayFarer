@@ -16,3 +16,8 @@ url = 'https://www.youtube.com/@jonathandill3557/videos'
 key = 1
 name = 'soundcloud'
 url = 'https://soundcloud.com/jonathan-dill-358795212'
+
+[[params.social]]
+key = 2
+name = 'kofi'
+url = 'https://ko-fi.com/grayfarer53775'
