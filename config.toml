@@ -4,10 +4,13 @@ title = 'My New Hugo Site'
 theme = 'nightfall'
 publishDir = 'docs'
 [params]
-author = "GrayFarer"
-user = "hello"
-hostname = "grayfarer.github.io"
+author = 'GrayFarer'
+user = 'hello'
+hostname = 'grayfarer.github.io'
 [[params.social]]
 key = 1
-name = "email"
-url = "mailto:email@example.com"
+name = 'youtube'
+url = 'https://www.youtube.com/@jonathandill3557/videos'
+key = 2
+name = 'soundcloud'
+url = 'https://soundcloud.com/jonathan-dill-358795212'
