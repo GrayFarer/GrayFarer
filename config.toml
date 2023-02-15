@@ -8,9 +8,11 @@ author = 'GrayFarer'
 user = 'hello'
 hostname = 'grayfarer.github.io'
 [[params.social]]
-key = 1
+key = 0
 name = 'youtube'
 url = 'https://www.youtube.com/@jonathandill3557/videos'
-key = 2
+
+[[params.social]]
+key = 1
 name = 'soundcloud'
 url = 'https://soundcloud.com/jonathan-dill-358795212'
