@@ -1,7 +1,12 @@
 baseURL = 'http://grayfarer.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'nightfall'
 [params]
-author = "Mr Hugo"
+author = "GrayFarer"
 user = "hello"
 hostname = "grayfarer.github.io"
+[[params.social]]
+key = 1
+name = "email"
+url = "mailto:email@example.com"
