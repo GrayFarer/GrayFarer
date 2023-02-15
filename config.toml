@@ -2,6 +2,7 @@ baseURL = 'https://grayfarer.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'nightfall'
+publishDir = 'docs'
 [params]
 author = "GrayFarer"
 user = "hello"
